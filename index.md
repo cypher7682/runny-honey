@@ -54,9 +54,9 @@ Unlike supermarket Honey, "raw" local honey is only filtered through mesh filter
 
 Time to get serious - we're going to talk about Botulism.
 
-Botulism is an illness caused by toxins produced by a bacteria called Clostridium botulinum. Chlostridium botulinum is found in abundance in soil. C. botulinum is a spore forming bacteria - when it's exposed to harsh conditions such as a lack of available water, heat, or acidity, it turns into a sort of bacterial seed, known as a spore. When conditions improve, the seed germinates back into a working bacteria and will begin multiplying. When this bacteria multiplies in an oxygen-free environment, it produces a toxin called Botulinum Neurotoxin (the primary ingredient in Botox).
+Botulism is an illness caused by toxins produced by a bacteria called Clostridium botulinum. Clostridium botulinum is found in abundance in soil. C. botulinum is a spore forming bacteria - when it's exposed to harsh conditions such as a lack of available water, heat, or acidity, it turns into a sort of bacterial seed, known as a spore. When conditions improve, the seed germinates back into a working bacteria and will begin multiplying. When this bacteria multiplies in an oxygen-free environment, it produces a toxin called Botulinum Neurotoxin (the primary ingredient in Botox).
 
-When nectar if foraged by bees, or when frames are placed outside of the hive, spores of C. botulinum can get onto the frames. When the bacteria is in honey, the "Water Activity" (availble water) of the honey prevents the bacteria from germinating and multiplying. If it is fed to infants, the water in their digestive tracts dilutes the honey and allows the bacteria to multiply.
+When nectar if foraged by bees, or when frames are placed outside of the hive, spores of C. botulinum can get onto the frames. When the bacteria is in honey, the "Water Activity" (available water) of the honey prevents the bacteria from germinating and multiplying. If it is fed to infants, the water in their digestive tracts dilutes the honey and allows the bacteria to multiply.
 
 As adults, we have acid in our stomachs and digestive tracts that prevent C. botulinum from multiplying and producing harmful toxins. Infants don't have an acidified digestive tract, so the bacteria can germinate and mulitply in their oxygen-free stomachs, causing Infant Botulism.
 
