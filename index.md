@@ -46,7 +46,7 @@ See the above answer. If your honey is bubbling alot, or the jar is pressurised,
 
 ### What are these black or white specks?
 
-Those specks you're seeing are either: pollen, wax, propolis, or (unfortunately) bits of bees.
+Those specks you're seeing are either: pollen, wax, or propolis.
 
 Unlike supermarket Honey, "raw" local honey is only filtered through mesh filters after extraction. These meshes aren't small enough to remove all the tiny specs of these things, but because they are lighter than honey, they tend to float to the surface. You don't find this in supermarket honeys, as they are filtered with industrial equipment. With all that said, these are completely safe to eat.
 
@@ -60,7 +60,7 @@ When nectar if foraged by bees, or when frames are placed outside of the hive, s
 
 As adults, we have acid in our stomachs and digestive tracts that prevent C. botulinum from multiplying and producing harmful toxins. Infants don't have an acidified digestive tract, so the bacteria can germinate and mulitply in their oxygen-free stomachs, causing Infant Botulism.
 
-**Do not give honey to children under one year of age!**
+**Never give honey to children under one year old!**
 
 ### Why is the weight in grams but sold in ounces?
 
